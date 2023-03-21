@@ -5,6 +5,10 @@
 ## Вся информация о курсах:
 [Плейлист с лекциями на YouTube](https://www.youtube.com/playlist?list=PL6Wui14DvQPz_vzmNVOYBRqML6l51lP0G)
 
+[Контест по разминке и основным темам для дивизиона B](https://contest.yandex.ru/contest/45468/problems/)
+
+[Контест по финальному спринту](https://contest.yandex.ru/contest/46304/problems/)
+
 [Тренировки 3.0](https://yandex.ru/yaintern/algorithm-training)
 
 [Мои решения тренировок 1.0 и 2.0 (B)](https://github.com/DenBugNBA/yandex_algorithms_trainings)
